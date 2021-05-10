@@ -1,0 +1,32 @@
+Psychology and Science
+85
+By the 1920s a new definition of psychology had gained favor. Psychology was said to be the science of...
+mind # consciousness # computers # behavior # philosophy
+4
+A cognitive psychologist is most likely to be interested in...
+therapy research # observational research # memory and perception # research involving some medicine or placebo #phenomenology
+3
+Operational definitions are...
+scientifically approved definitions # definitions illustrated with a concrete example or visual image # definitions which are very precise # dictionary definitions # definitions which tell how to collect data
+5
+What does it mean to say a definition is valid?
+it can be repeated under the same circumstances and will produce the same result # it accurately represents the value of some variable # it measures what you think it measures, as shown by using a different method to measure the same variable # it is described in such a way that it can be measured # it seems reasonable
+3
+What does it mean to say a definition is reliable?
+it means what you think it means # you can measure the same thing again and get the same results # there are no confounded variables # it can be used to make accurate predictions # it has been operationally defined
+2
+Replication...
+relies on self-report methods # is important precisely because it involves the same claim but a different test, with different procedures # is "secondary in importance" to honesty, according to the chapter # is possible only with experimental, not observational research # is essentially repetition of research in all its details
+5
+In observational research there are no...
+variables # operational definitions # standardized tests # experimental manipulations # statistical tests
+4
+What is the independent variable, in experimental research?
+a variable which nobody controls or changes # the variable which is manipulated in an experiment # the variable which is measured, to see results of an experiment # a variable which describes some durable characteristic of the subject # a variable which is held steady
+2
+A single-blind design should be sufficient to eliminate ______________ as a confounded variable.
+placebo effects # experimenter effects # subject variables # self-selection # measurement effects
+1
+How are experimenter effects eliminated?
+with a single blind design # with a double blind design # with reactive measures # with operational definitions # with convergent operations
+2
